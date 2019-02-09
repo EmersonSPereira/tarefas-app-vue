@@ -1,4 +1,9 @@
-# Tarefas
+## Tarefas
+Aplicação permite acompanhar tarefas do dia dia.
+
+## Link para aplicação
+https://emersonspereira.github.io/tarefas/
+
 
 ## Project setup
 ```
@@ -29,4 +34,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue.js-tarefas
 
-### Aplicação disponível em : https://emersonspereira.github.io/tarefas/
+
